@@ -26,15 +26,53 @@
 ### 3.	Move the z-axis slider and observe the movement of the z-axis assembly.
 
 ## OUTPUT:
+![image](https://github.com/thenmozhi05/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/140684207/fccb4b9b-7be7-4db0-992a-52e8189272ab)
+# Y-Axis Base :
+The base of the printer that supports the rest of the components
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/113594316/9e41de91-6dcc-4352-ab44-443028d3ac1a)
+# Z-Axis Frame :
+This is the frame that holds the print head and moves it up and down along the vertical axis.
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/113594316/88273b69-4e7d-4f42-9115-fb07ac22e4ec)
+# Smooth Rods :
+The smooth rods that provide smooth and accurate movement of the Z-axis frame.
+
+# Motors :
+provide the power to move the Z-axis frame and the print head.
+
+# Extruder Supporter :
+The support structure that holds the extruder assembly.
+
+# Threaded Rod :
+Threaded rod that provides the power to move the Z-axis frame up and down.
+
+# Y-Axis Frame :
+The frame that moves the print head in the horizontal plane.
+
+# Motor with Gear :
+provides the power to move the Y-axis frame
+
+# Motor-with-Pulley :
+provides the power to move the Z-axis frame.
+
+# Gears :
+Transfer power from the stepper motors to the threaded rod and the smooth rods.
+
+# Plate :
+plate where the printed object is created.
+
+# Extruder :
+melts and extrudes the filament to create the printed object.
+
+# Filament :
+material that is used to create the printed object.
+
 
 ## Output:
+## playing with axis:
+![image](https://github.com/thenmozhi05/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/140684207/5298d38e-849a-4b76-b7ca-4267bb06a3cc)
 
-### Name:
-### Register Number:
+### Name:thenmozhi p
+### Register Number:23005024
 
 ## Result: 
 ### Thus the simulation on construction of polar 3D printer is completed & movement of axis along X, Y, & Z has been studied.
